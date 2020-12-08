@@ -1,0 +1,30 @@
+SELENIUM:
+
+Q. 1- Write ten test cases on https://www.ietpune.com/(create a table in excel file) -10marks
+
+Q.2   write Selenium code for automate the following steps	                                 - 15marks							           		
+		https://www.ietpune.com/
+step-1  Open chrome and  open google.com website	
+step2- Inside search box, search for ietpune.com and hit search button.
+Step3- click on first link, open website –ietpune.com
+Step4- check for ietpune.com heading
+Step5- check for Facebook icon is there or not, and click on that link.				       
+
+GITHUB:	
+
+Q.3- GitHub									        -[15 marks]
+1.	Create a local git repository with angular project
+2.	Commit the initial code
+3.	Update the code
+4.	Use git commands to
+o Get the updated files
+o List the changes
+o Create a branch
+o Merge branch
+5.	Create a repository on GitHub
+6.	Push the local changes to GitHub
+7.	Pull the code from GitHub
+8.	Create and check out a branch
+9.	Add a new feature, commit and push changes to GitHub
+10.	Create a pull request
+11.	Review 
